@@ -1,4 +1,4 @@
-# Thelia My SQL Modes Checker
+# Thelia MySQL Modes Checker
 
 This module automatically fixes the MySQL modes needed by Thelia
 
